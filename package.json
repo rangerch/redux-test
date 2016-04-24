@@ -1,5 +1,5 @@
 {
-  "name": "redux-test",
+  "name": "redux-yuanqi-test",
   "version": "1.0.0",
   "description": "test for redux",
   "main": "index.js",
@@ -13,6 +13,6 @@
   "keywords": [
     "redux"
   ],
-  "author": "",
+  "author": "yuanqi",
   "license": "ISC"
 }
